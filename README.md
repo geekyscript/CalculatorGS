@@ -2,7 +2,7 @@
 
 A sleek and modern calculator built with **Python** and **Tkinter**, featuring a **dark/light theme toggle**. This simple yet visually appealing GUI application supports basic arithmetic operations and is perfect for learning Tkinter and GUI design in Python.
 
-![Screenshot](screenshot.png) 
+![Screenshot](CalculatorScreen.jpg) 
 
 ---
 
