@@ -69,7 +69,7 @@ pyvisual-calculator/
 ![Light Theme](LightScreen.jpg) <!-- Optional: add your screenshot -->
 
 ### Dark Theme 🌚
-![Dark Theme](dark_theme.png) <!-- Optional: add your screenshot -->
+![Dark Theme](DarkScreen.jpg) <!-- Optional: add your screenshot -->
 
 ---
 
