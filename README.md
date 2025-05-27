@@ -22,7 +22,7 @@ Make sure you have Python installed (version 3.6 or above recommended).
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/pyvisual-calculator.git
+   git clone https://github.com/geekyscript/CalculatorGS.git
    cd pyvisual-calculator
    ```
 
@@ -76,7 +76,7 @@ pyvisual-calculator/
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle)
+[GitHub](https://github.com/geekyscript) | [LinkedIn](https://linkedin.com/in/geekyscript) | [Twitter](https://twitter.com/geekyscript)
 
 ---
 
