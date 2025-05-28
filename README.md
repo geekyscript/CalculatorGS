@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions are welcome! Feel free to:
 - Submit pull requests
-- Report bugs or request features via [Issues](https://github.com/your-username/pyvisual-calculator/issues)
+- Report bugs or request features via [Issues](https://github.com/geekyscript/CalculatorGS/issues)
 
 ---
 
