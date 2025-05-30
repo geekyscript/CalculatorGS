@@ -76,7 +76,7 @@ pyvisual-calculator/
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/geekyscript) | [LinkedIn](https://linkedin.com/in/geekyscript) | [Twitter](https://twitter.com/geekyscript)
+[GitHub](https://github.com/geekyscript) | [LinkedIn](https://linkedin.com/in/geekyscript) | [X](https://X.com/geekyscript)
 
 ---
 
