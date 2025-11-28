@@ -23,7 +23,7 @@ themes = {
         "icon": "🌙"
     }
 }
-
+#currentThem used is Dark
 current_theme = "dark"
 
 # --- Main window ---
